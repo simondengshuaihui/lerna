@@ -1,6 +1,7 @@
 {
   "name": "root",
   "private": true,
+  "license": "UNLICENSED",
   "devDependencies": {
     "lerna": "^3.18.3",
     "eslint": "^4.18.1",
