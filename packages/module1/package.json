@@ -1,6 +1,6 @@
 {
   "name": "module1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "eslint": "^4.18.1",
     "lint-staged": "^7.0.0",
-    "module2": "^0.0.1",
+    "module2": "^0.0.2",
     "prettier": "^1.10.2"
   },
   "gitHead": "aff9e1a617b39e13a2863da543941b07778b032b"
